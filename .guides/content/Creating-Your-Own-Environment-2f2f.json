@@ -1,0 +1,27 @@
+{
+	"id": "2f2f1c5a-67c9-46de-1717-87db2c243103",
+	"title": "Creating Your Own Environment",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "environment.yml",
+			"panel": 0,
+			"action": "open"
+		},
+		{
+			"path": "#terminal: clear;",
+			"panel": 1,
+			"action": "open"
+		}
+	],
+	"layout": "3-cell-tree",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

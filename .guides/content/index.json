@@ -1,0 +1,20 @@
+{
+	"title": "Conda+Spyder",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": true,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Spyder-bdd1",
+		"Understanding-the-Spyder-Environment-d441",
+		"Creating-Your-Own-Environment-2f2f"
+	]
+}

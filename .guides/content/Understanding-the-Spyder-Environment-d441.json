@@ -1,0 +1,22 @@
+{
+	"id": "d441c9d2-c383-5341-fa3a-ef5fe2bab3f8",
+	"title": "Understanding the Spyder Environment",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#terminal: clear;",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"layout": "2-panels",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
