@@ -13,7 +13,8 @@
 	"hideBackToDashboard": false,
 	"protectLayout": false,
 	"order": [
-		"Spyder-bdd1",
+		"Getting-Started-with-Spyder-bdd1",
+		"Setting-Up-the-Stack-2e30",
 		"Understanding-the-Spyder-Environment-d441",
 		"Creating-Your-Own-Environment-2f2f"
 	]

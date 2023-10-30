@@ -1,0 +1,17 @@
+{
+	"id": "2e30337c-db66-f7b1-ceff-2d745613792e",
+	"title": "Setting Up the Stack",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
